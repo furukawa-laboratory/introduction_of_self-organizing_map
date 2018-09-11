@@ -1,0 +1,2 @@
+# introduction_of_self-organizing_map
+九州工業大学の古川研究室が公開している自己組織化マップ入門のサポートリポジトリ
